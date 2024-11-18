@@ -1,7 +1,11 @@
 # 💫About Me :
+
 🔭 I’m currently studying at the National Institute of Technology, Silchar
+
 🌱 I'm exploring Machine learning these days and I enjoy collaborating with people on works of similar interest.
+
 📫 How to reach me: jumonkalita90@gmail.com
+
 😄 Pronouns: He/Him
 
 
