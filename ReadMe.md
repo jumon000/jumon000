@@ -8,6 +8,7 @@
 
 😄 Pronouns: He/Him
 
+"Code like it's the weekend... but remember, it's not. It's just Tuesday."
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juman-krishna-kalita-660717289/) 
