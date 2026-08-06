@@ -2,11 +2,6 @@
   <img width="100%" src="./assets/luffy-one-piece-lightning-storm-animated-gif-wallpaper.gif" alt="Banner"/>
 </p>
 
-<h1 align="center">Jumon Kalita</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Production+Grade+Software;Backend+Engineer;Go+%7C+C%2B%2B+%7C+Python;Distributed+Systems;Always+Learning"/>
-</p>
 
 <br>
 
