@@ -73,14 +73,6 @@ Learning
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jumon000&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
 # Connect
 
 <p align="center">
