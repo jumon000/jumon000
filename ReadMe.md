@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img width="95%" src="./assets/terminal-intro.gif" alt="Terminal Intro"/>
+  <img width="95%" src="./assets/terminal-intro1-ezgif.com-svg-to-gif-converter (1).gif" alt="Terminal Intro"/>
 </p>
 ---
 
