@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/luffy-banner.gif" alt="Banner"/>
+  <img width="100%" src="./assets/luffy-one-piece-lightning-storm-animated-gif-wallpaper.gif" alt="Banner"/>
 </p>
 
 <h1 align="center">Jumon Kalita</h1>
