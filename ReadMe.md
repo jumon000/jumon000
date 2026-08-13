@@ -8,33 +8,7 @@
 <p align="center">
   <img width="95%" src="./assets/terminal-intro1-ezgif.com-svg-to-gif-converter (1).gif" alt="Terminal Intro"/>
 </p>
----
 
-# About
-
-I'm an undergraduate at **National Institute of Technology, Silchar** interested in building scalable backend systems, distributed infrastructure and machine learning applications.
-
-Most of my time is spent building projects, solving algorithmic problems and learning how large-scale systems work.
-
----
-
-# Current Focus
-
-```text
-Building
-├── Backend Systems
-├── Distributed Systems
-├── Cloud Infrastructure
-└── Machine Learning
-
-Learning
-├── Kubernetes
-├── AWS
-├── System Design
-└── Go Internals
-```
-
----
 
 # Tech Stack
 
@@ -42,20 +16,7 @@ Learning
 <img src="https://skillicons.dev/icons?i=cpp,c,go,python,docker,kubernetes,aws,postgres,mongodb,linux,git,tensorflow,flask,vscode"/>
 </p>
 
----
 
-# GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jumon000&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumon000&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=jumon000&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # Contribution Graph
 
